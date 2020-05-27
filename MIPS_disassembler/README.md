@@ -9,3 +9,4 @@ MIPS 32-bit Disassembler
 Future Improvements:
 - Read the instructions from a file
 - optimize some repetitive functions 
+- Write output to a file
