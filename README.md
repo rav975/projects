@@ -1,5 +1,5 @@
-# projects
-collection of personal and course projects
+# Projects
+Collection of personal and course projects
 
 MIPS Disassembler: 
 - takes a set of 32-bit MIPS instrusctions and disassembles it into the corresponding 
