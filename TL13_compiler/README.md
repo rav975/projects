@@ -6,7 +6,7 @@ TL13 to C Compiler
 - uses Flex and Bison
 - use build.sh to build the compiler
 - use run.sh to run the compiler. Replace sample1.in with desired input file
-- pipes console output to a .c file 
+- run.sh pipes console output to a .c file 
 - does not fully type check expressions
 - some informal semantics not checked 
 
