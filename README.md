@@ -13,9 +13,3 @@ TL13 Compiler:
 - takes TL13 code and compiles it into corresponding C code
 - utilizes Flex and Bison
 
-Senior Design Project:
-- Sponsored and owned by HoboLoco Inc.
-- Windows app to configure a foot operated game controller
-- Controller utilizes arduino to read hardware
-- source code not avaialable
-- pictures provided 
