@@ -66,1000 +66,6 @@ Data: 		.word
 0,
 0,
 0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
 0
 Text:		.word	
 		537395200,
@@ -1395,23 +401,12 @@ ClosedParenth:	.asciiz
 		la $s3, OffsetR			# address offset array for r-type instruction in $s3
 		la $s4, Name			# address of Name array for regular instructions in $s4
 		la $s5, NameR			# address of NameR array for r-type instructions in $s5
-# Start:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/10/2018 by the author. No modifications since.
-# Description: starts by printing .data and then generates a label and prints .word. Then PrintData loops and prints
-#		the data segment
-# Arguments: none
+
 Start:		jal PrintDotData		# start by printing ".data" for data segment
 		jal GenDataLabel		# generate a label for the .word array
 		jal PrintDotWord		# print ".word"
 		j PrintData			# loop through Data and print each entry
-# GenDataLabel:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/10/2018 by the author. No modifications since.
-# Description: generates generic labels for data segment based on the starting address
-# Arguments: none
+
 GenDataLabel:	la $t0, DLabel			# loads a generic Label for use
 		la $t1, BaseData		# loads the starting address for the data segment into t1
 		lw $t2, 0($t1)	 		# loads the value at the address in t1
@@ -1427,12 +422,7 @@ GenDataLabel:	la $t0, DLabel			# loads a generic Label for use
 		addi $t2, $t2, 4		# add four to the value in $t2 to increment the data addresses
 		sw $t2, 0($t1)			# store the new incremented address back into BaseData
 		jr $s7				# return to Start where we left off
-# GenTextLabel:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/10/2018 by the author. No modifications since.
-# Description: generates generic labels for text segment based on the starting address
-# Arguments: none
+
 GenTextLabel:	la $t0, TLabel			# loads a generic Label for use
 		la $t1, BaseText		# loads the starting address of the text segment into t1
 		lw $t2, 0($t1)	 		# loads the value at the address in t1
@@ -1448,13 +438,7 @@ GenTextLabel:	la $t0, TLabel			# loads a generic Label for use
 		addi $t2, $t2, 4		# add four to the address value so it acts as a PC for text segment
 		sw $t2, 0($t1)			# store the new incremented address back into BaseText
 		jr $s7				# return to Start where we left off
-# Print strings and chars methods:
-# Author: Ryan Vowell
-# Modification History
-# 	Routines written on 11/10/2018 by the author. No modifications since.
-# Description: these methods print a string or character before returning to the previous location in the program.
-#		I combined descriptions here since they all do the the same basic funtion
-# Arguments: none
+
 PrintDotData:	la $a0, DotData			# loads DotData for use
 		li $v0, 4			# load 4 into v0 in order to print a string
 		syscall				# syscall to print ".data"
@@ -1497,12 +481,7 @@ PrintCP:	la $a0, ClosedParenth		# loads a space for use
 		li $v0, 4			# load 4 into v0 in order to print a string
 		syscall				# syscall to print a space
 		jr $ra				# return tp previous location
-# PrintData:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/10/2018 by the author. No modifications since.
-# Description: loops through and prints each element in the data array along with a generic label for each item
-# Arguments: none
+
 PrintData:	beq $s0, $s1, PrintDotText	# When fnished with Data branch to start on text segment
 		jal GenDataLabel		# Generate a label for each line
 		lw $t1, 0($s0)			# load the item stored at that loacation in s0 (Data) into $t1
@@ -1515,15 +494,7 @@ PrintData:	beq $s0, $s1, PrintDotText	# When fnished with Data branch to start o
 		syscall				# syscall to print a new line
 		addi $s0, $s0, 4		# increments the address in $s0 in order to loop through Data
 		j PrintData			# jump to the start of the routine
-# PrintData:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/12/2018 by the author. Last modified 11/21/2018.
-# Description: loops through and gets each element in the text array. It then decodes to get the opcode, and if it's zero
-#		it branches to rtype method. If not it prints the instruction name and then uses branches to test 
-# 		the opcode, so it can go to the method for that instruction format. Ftype instructions have been
-#		changed to a nop the the Name array for any opcode of 17. Offset was corrected to reflect this.
-# Arguments: none
+
 TextLoop:	beq $s1, $s2, exit		# when address for Text reaches the address of Offset, loop exits
 		jal GenTextLabel		# generate a label for each line
 		lw $s6, 0($s1)			# loads the word from Text to s6. This is the isntruction
@@ -1579,14 +550,7 @@ TextLoop:	beq $s1, $s2, exit		# when address for Text reaches the address of Off
 		syscall				# syscall to print a new line
 		addi $s1, $s1, 4		# increments the address in $s1 in order to loop through Text
 		j TextLoop			# jump to the start of the routine	
-# rtype:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/12/2018 by the author. Last modified 11/21/2018.
-# Description: this method gets the function code in order to decode the rtype instructions. It then prints the 
-#		instruction name and then branches to go to the method for that instruction's format. Instructions
-#		following the normal 3 register format are dealt with within this method.
-# Arguments: none			
+			
 rtype: 		sll $t2, $s6, 26		# shifts left to remove the first 26 bits of instruction
 		srl $t9, $t2, 26		# shifts back right so the remaining 6 bits are back in the front (this is funct code)
 		sll $t2, $t9, 2			# multiplies the function code by four to get address of correct offset
@@ -1637,23 +601,13 @@ rtype: 		sll $t2, $s6, 26		# shifts left to remove the first 26 bits of instruct
 		syscall				# syscall to print a new line
 		addi $s1, $s1, 4		# increments the address in $s1 in order to loop through Text
 		j TextLoop			# jump to the start of the main TextLoop routine
-# InstrOnly:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/12/2018 by the author. Last modified 11/21/2018.
-# Description: since instr name is printed before the branch this method only increments and returns back to the TextLoop
-# Arguments: none
+
 InstrOnly:	addi $s1, $s1, 4		# increments the address in $s1 in order to loop through Text
 		la $a0, Line			# load new line character
 		li $v0, 4			# loads 4 into $v0 so syscall will print a string
 		syscall				# syscall to print a new line
 		j TextLoop			# return to beginning of TextLoop
-# Jr:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/12/2018 by the author. Last modified 11/21/2018.
-# Description: gets $rs for the register jumps
-# Arguments: none
+
 Jr:		jal PrintSpace			# print a space
 		jal PrintRs			# get and print rs register
 		addi $s1, $s1, 4		# increments the address in $s1 in order to loop through Text
@@ -1661,12 +615,7 @@ Jr:		jal PrintSpace			# print a space
 		li $v0, 4			# loads 4 into $v0 so syscall will print a string
 		syscall				# syscall to print a new line
 		j TextLoop			# return to beginning of TextLoop
-# Jump:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/12/2018 by the author. Last modified 11/21/2018.
-# Description: gets target address for jumps
-# Arguments: none
+
 Jump:		jal PrintSpace			# print a space
 		jal PrintTarget			# prints the label of the target address
 		addi $s1, $s1, 4		# increments the address in $s1 in order to loop through Text
@@ -1674,12 +623,7 @@ Jump:		jal PrintSpace			# print a space
 		li $v0, 4			# loads 4 into $v0 so syscall will print a string
 		syscall				# syscall to print a new line
 		j TextLoop			# return to beginning of TextLoop
-# TwoRegImm:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/12/2018 by the author. Last modified 11/21/2018.
-# Description: gets the two registers and immediate value 
-# Arguments: none
+
 TwoRegImm:	jal PrintSpace			# print a space
 		jal PrintRt			# get and print rt register
 		jal PrintComma			# print a comma
@@ -1693,12 +637,7 @@ TwoRegImm:	jal PrintSpace			# print a space
 		li $v0, 4			# loads 4 into $v0 so syscall will print a string
 		syscall				# syscall to print a new line
 		j TextLoop			# return to beginning of TextLoop
-# OneRegImm:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/12/2018 by the author. Last modified 11/21/2018.
-# Description: gets the register and immediate value 
-# Arguments: none
+
 OneRegImm:	jal PrintSpace			# print a space
 		jal PrintRt			# get and print rt register
 		jal PrintComma			# print a comma
@@ -1709,12 +648,7 @@ OneRegImm:	jal PrintSpace			# print a space
 		li $v0, 4			# loads 4 into $v0 so syscall will print a string
 		syscall				# syscall to print a new line
 		j TextLoop			# return to beginning of TextLoop
-# StoreLoad:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/12/2018 by the author. Last modified 11/21/2018.
-# Description: gets the destination register and the immediate for the offset into the address at rs
-# Arguments: none
+
 StoreLoad:	jal PrintSpace			# print a space
 		jal PrintRt			# get and print rt register
 		jal PrintComma			# print a comma
@@ -1728,12 +662,7 @@ StoreLoad:	jal PrintSpace			# print a space
 		li $v0, 4			# loads 4 into $v0 so syscall will print a string
 		syscall				# syscall to print a new line
 		j TextLoop			# return to beginning of TextLoop
-# Bgtz:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/12/2018 by the author. Last modified 11/21/2018.
-# Description: gets the register to compare and the target address. Also works for blez
-# Arguments: none
+
 Bgtz:		jal PrintSpace			# print a space
 		jal PrintRs			# get and print rs register
 		jal PrintComma			# print a comma
@@ -1744,12 +673,7 @@ Bgtz:		jal PrintSpace			# print a space
 		li $v0, 4			# loads 4 into $v0 so syscall will print a string
 		syscall				# syscall to print a new line
 		j TextLoop			# return to beginning of TextLoop
-# Branch:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/12/2018 by the author. Last modified 11/21/2018.
-# Description: gets the two registers that are compared and the target address 
-# Arguments: none
+
 Branch:		jal PrintSpace			# print a space
 		jal PrintRs			# get and print rs register
 		jal PrintComma			# print a comma
@@ -1763,12 +687,7 @@ Branch:		jal PrintSpace			# print a space
 		li $v0, 4			# loads 4 into $v0 so syscall will print a string
 		syscall				# syscall to print a new line
 		j TextLoop			# return to beginning of TextLoop
-# Shift:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/14/2018 by the author. Last modified 11/21/2018.
-# Description: gets the two registers and the shift amount 
-# Arguments: none
+
 Shift:		jal PrintSpace			# print a space
 		jal PrintRd			# get and print rd register
 		jal PrintComma			# print a comma
@@ -1782,12 +701,7 @@ Shift:		jal PrintSpace			# print a space
 		li $v0, 4			# loads 4 into $v0 so syscall will print a string
 		syscall				# syscall to print a new line
 		j TextLoop			# return to beginning of TextLoop
-# ShiftV:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/14/2018 by the author. Last modified 11/21/2018.
-# Description: gets the three register needed. rt and rs are flipped as opposed to normal 3 reg rtypes
-# Arguments: none
+
 ShiftV:		jal PrintSpace			# print a space
 		jal PrintRd			# get and print rd register
 		jal PrintComma			# print a comma
@@ -1801,12 +715,7 @@ ShiftV:		jal PrintSpace			# print a space
 		syscall				# syscall to print a new line
 		addi $s1, $s1, 4		# increments the address in $s1 in order to loop through Text
 		j TextLoop			# jump to the start of the main TextLoop routine
-# RdOnly:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/14/2018 by the author. Last modified 11/21/2018.
-# Description: gets rd 
-# Arguments: none
+
 RdOnly:		jal PrintSpace			# print a space
 		jal PrintRd			# get and print rd register
 		la $a0, Line			# load new line character
@@ -1814,12 +723,7 @@ RdOnly:		jal PrintSpace			# print a space
 		syscall				# syscall to print a new line
 		addi $s1, $s1, 4		# increments the address in $s1 in order to loop through Text
 		j TextLoop			# jump to the start of the main TextLoop routine
-# RsOnly:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/14/2018 by the author. Last modified 11/21/2018.
-# Description: gets rs 
-# Arguments: none
+
 RsOnly:		jal PrintSpace			# print a space
 		jal PrintRs			# get and print rd register
 		la $a0, Line			# load new line character
@@ -1827,12 +731,7 @@ RsOnly:		jal PrintSpace			# print a space
 		syscall				# syscall to print a new line
 		addi $s1, $s1, 4		# increments the address in $s1 in order to loop through Text
 		j TextLoop			# jump to the start of the main TextLoop routine
-# RsRt:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/14/2018 by the author. Last modified 11/21/2018.
-# Description: gets rs and rt
-# Arguments: none
+
 RsRt:		jal PrintSpace			# print a space
 		jal PrintRs			# get and print rd register
 		jal PrintComma			# print a comma
@@ -1843,12 +742,7 @@ RsRt:		jal PrintSpace			# print a space
 		syscall				# syscall to print a new line
 		addi $s1, $s1, 4		# increments the address in $s1 in order to loop through Text
 		j TextLoop			# jump to the start of the main TextLoop routine
-# Break:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/14/2018 by the author. Last modified 11/21/2018.
-# Description: gets the break code
-# Arguments: none
+
 Break:		jal PrintSpace			# print a space
 		jal PrintCode			# get and print the code field
 		la $a0, Line			# load new line character
@@ -1856,12 +750,7 @@ Break:		jal PrintSpace			# print a space
 		syscall				# syscall to print a new line
 		addi $s1, $s1, 4		# increments the address in $s1 in order to loop through Text
 		j TextLoop			# jump to the start of the main TextLoop routine
-# PrintRd:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/14/2018 by the author. Last modified 11/21/2018.
-# Description: get rd by shifting out unneccessary bits and printing the dollar sign
-# Arguments: none
+
 PrintRd:	sll $t6, $s6, 16		# shift left to remove first 16 bits
 		srl $t6, $t6, 27		# shift back right by 27 so you are left with rd only
 		move $s7, $ra			# move the return address to $s7 so we can return to the rtype method
@@ -1870,12 +759,7 @@ PrintRd:	sll $t6, $s6, 16		# shift left to remove first 16 bits
 		li $v0, 1			# load 1 into v0 in order to print an int
 		syscall				# syscall to print the value for rd
 		jr $s7				# return to previous location
-# PrintRs:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/14/2018 by the author. Last modified 11/21/2018.
-# Description: get rs by shifting out unneccessary bits and printing the dollar sign
-# Arguments: none
+
 PrintRs:	sll $t6, $s6, 6			# shift left to remove first 6 bits
 		srl $t6, $t6, 27		# shift back right by 27 so you are left with rs only
 		move $s7, $ra			# move the return address to $s7 so we can return to the rtype method
@@ -1884,12 +768,7 @@ PrintRs:	sll $t6, $s6, 6			# shift left to remove first 6 bits
 		li $v0, 1			# load 1 into v0 in order to print an int
 		syscall				# syscall to print rs value
 		jr $s7				# return to previous location
-# PrintRt:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/14/2018 by the author. Last modified 11/21/2018.
-# Description: get rt by shifting out unneccessary bits and printing the dollar sign
-# Arguments: none
+
 PrintRt:	sll $t6, $s6, 11		# shift left to remove first 6 bits
 		srl $t6, $t6, 27		# shift back right by 27 so you are left with rs only
 		move $s7, $ra			# move the return address to $s7 so we can return to the rtype method
@@ -1898,26 +777,14 @@ PrintRt:	sll $t6, $s6, 11		# shift left to remove first 6 bits
 		li $v0, 1			# load 1 into v0 in order to print an int
 		syscall				# syscall to print rs value
 		jr $s7				# return to previous location
-# PrintImm:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/14/2018 by the author. Last modified 11/21/2018.
-# Description: get the 16 bit immediate by shifting out unneccessary bits
-# Arguments: none
+
 PrintImm:	sll $t6, $s6, 16		# remove the first 16 bits
 		sra $t6, $t6, 16		# shift back right to put 16 bit immediate back in fromt
 		move $a0, $t6			# move the immediate to a0
 		li $v0, 1			# load 1 into v0 in order to print an int
 		syscall				# syscall to print the immediate
 		jr $ra				# return to previous location
-# PrintImm:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/15/2018 by the author. Last modified 11/21/2018.
-# Description: get the 16 bit immediate by shifting out unneccessary bits. Then that immediate is multiplied by to be
-#		for addressing. It also prints the corresponding label by getting PC + 4 in BaseText and adding the
-#		immediate * 4 to it
-# Arguments: none
+
 PrintImmAddr:	sll $t6, $s6, 16		# remove the first 16 bits
 		sra $t6, $t6, 16		# shift back right to put 16 bit immediate back in fromt
 		sll $t6, $t6, 2			# multiply the imm by four since addresses are byte based
@@ -1931,13 +798,7 @@ PrintImmAddr:	sll $t6, $s6, 16		# remove the first 16 bits
 		li $v0, 1			# load 1 into v0 in order to print an int
 		syscall				# syscall to print the target address
 		jr $ra				# return to previous location
-# PrintTarget:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/15/2018 by the author. Last modified 11/21/2018.
-# Description: get the 26 bit immediate by shifting out unneccessary bits. Then multiply by four for addressing.
-#		Then for jumps, it takes the first four bits of PC + 4 and concatenates them with the immediate * 4 on the end.
-# Arguments: none
+
 PrintTarget:	sll $t6, $s6, 6			# remove the first 6 bits
 		sra $t6, $t6, 6			# shift back right to put 26 bit immediate back in place
 		sll $t6, $t6, 2			# multiply the imm by four since addresses are byte based
@@ -1953,29 +814,20 @@ PrintTarget:	sll $t6, $s6, 6			# remove the first 6 bits
 		li $v0, 1			# load 1 into v0 in order to print an int
 		syscall				# syscall to print the target address
 		jr $ra				# return to previous location
-# PrintShift:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/20/2018 by the author. Last modified 11/21/2018.
-# Description: get the shift amount by shifting out the unneccessary bits
-# Arguments: none
+
 PrintShift:	sll $t6, $s6, 21		# remove the first 21 bits
 		srl $t6, $t6, 27		# shift back right to get 5 bit shamt in place
 		move $a0, $t6			# move shamt into a0
 		li $v0, 1			# load 1 into v0 in order to print an int
 		syscall				# syscall to print the shamt
 		jr $ra				# return to previous location
-# PrintCode:
-# Author: Ryan Vowell
-# Modification History
-# 	Routine written on 11/20/2018 by the author. Last modified 11/21/2018.
-# Description: get the code number for breaks by shifting out the unneccessary bits
-# Arguments: none
+
 PrintCode:	sll $t6, $s6, 6			# remove the first 6 bits 
 		srl $t6, $s6, 12		# remove the last 6 bits and put code # in place
 		move $a0, $t6			# move the code # into a0
 		li $v0, 1			# load 1 into v0 in order to print an int
 		syscall				# syscall to print the code #
 		jr $ra				# return to previous location
+
 exit:		li $v0, 10			# loads 10 into $v0 so syscall will exit the program
 		syscall				# syscall exits program
