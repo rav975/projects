@@ -13,3 +13,11 @@ TL13 Compiler:
 - takes TL13 code and compiles it into corresponding C code
 - utilizes Flex and Bison
 
+Board Master
+- Personal project
+- Simple program that runs various board games 
+- Also keeps track of players and records their score in file that is saved and loaded each time
+- Only has Othello (Reversi) and Connect Four at this time
+- 1.0 is the text version that runs in the console
+- 2.0 will have graphical user interface and be a standalone desktop program that can run on machines without java
+
